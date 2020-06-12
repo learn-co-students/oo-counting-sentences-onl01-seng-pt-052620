@@ -24,7 +24,6 @@ class String
     
     
     @array = self.split(/[.?!]+/)
-    puts @array
     @array.count
 
 
